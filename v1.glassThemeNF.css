@@ -25,7 +25,7 @@
     --HSL-server-direction: column;                                 /* Diretorio da lista de servidores. | Opções: column, column-reverse | Padrão: column */
     
     --custom-image-url: url('https://i.imgur.com/EdoxJeJ.png');     /* fundo img */
-    --app-blur: 5px;                                                /* fundo img blur */
+    --app-blur: 1px;                                                /* fundo img blur */
     
     --custom-logo: url('https://i.imgur.com/UTUa6Zl.gif');          /* logotipo personalizado */
     --custom-logo-hover: url('https://i.imgur.com/UTUa6Zl.gif');    /* logotipo personalizado (hover) */
