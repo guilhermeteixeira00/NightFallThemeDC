@@ -668,13 +668,13 @@
 
 .reaction__23977.reactionMe__23977 {
     /* forum reaction color */
-    background-color: rgba(178, 102, 255, 0.3);
+    background-color: var(--reaction-color);
     border-color: var(--highlight);
 }
 
 .reaction_f8896c.reactionMe_f8896c {
     /* forum reaction color */
-    background-color: rgba(178, 102, 255, 0.3);
+    background-color: var(--reaction-color);
     border-color: var(--highlight);
 }
 
