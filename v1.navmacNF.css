@@ -9,11 +9,11 @@
   margin-right: 5px;
 }
 .winButtonMinMax__421ed:nth-child(2n) {
-  background-color: var(--green-dot);
+  background-color: var(--yellow-dot);
 }
 .winButtonMinMax__421ed:nth-child(3n) {
   order:3;
-  background-color: var(--yellow-dot);
+  background-color: var(--green-dot);
 }
 
 .winButtonClose__421ed:hover{
