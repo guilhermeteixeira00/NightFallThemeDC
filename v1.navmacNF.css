@@ -1,0 +1,44 @@
+:root {
+  --red-dot: var(--status-danger);
+  --yellow-dot: var(--status-alert);
+  --green-dot: var(--status-success); 
+}
+
+.winButtonClose__421ed {
+  background-color: var(--red-dot);
+  margin-right: 5px;
+}
+.winButtonMinMax__421ed:nth-child(2n) {
+  background-color: var(--green-dot);
+}
+.winButtonMinMax__421ed:nth-child(3n) {
+  order:3;
+  background-color: var(--yellow-dot);
+}
+
+.winButtonClose__421ed:hover {
+  opacity: 0.5;
+}
+.winButtonMinMax__421ed:hover {
+  opacity: 0.5;
+}
+
+.typeWindows__421ed {
+  transform: rotate(180deg);
+}
+
+.withFrame__421ed {
+  margin-bottom: 4px;
+  margin-top: 0px;
+}
+
+.winButton__421ed {
+  border-radius: 100%;
+  width: 13px;
+  height: 13px;
+  top: 0px;
+  margin-left: 3px;
+}
+.winButton__421ed svg {
+  display: none;
+}
