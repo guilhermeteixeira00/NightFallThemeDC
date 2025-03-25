@@ -25,7 +25,6 @@
     --HSL-server-direction: column;                                 /* Diretorio da lista de servidores. | Opções: column, column-reverse | Padrão: column */
     
     --custom-image-url: url('https://i.imgur.com/EdoxJeJ.png');     /* fundo img */
-    --app-blur: 1px;                                                /* fundo img blur */
     
     --custom-logo: url('https://i.imgur.com/UTUa6Zl.gif');          /* logotipo personalizado */
     --custom-logo-hover: url('https://i.imgur.com/UTUa6Zl.gif');    /* logotipo personalizado (hover) */
@@ -34,7 +33,7 @@
 
     /*Background*/
     --background-image: var(--custom-image-url);
-    --app-blur: 8px;
+    --app-blur: 1px;
     --button-background: linear-gradient(60deg, var(--highlight), var(--highlight-darker));
     --button-background-static: var(--highlight);
     --background-primary: rgba(24, 24, 24, 0.26) !important;
