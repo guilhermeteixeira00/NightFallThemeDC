@@ -16,6 +16,13 @@
   background-color: var(--yellow-dot);
 }
 
+.winButtonClose__421ed:hover{
+  opacity: 0.5;
+}
+.winButtonMinMax__421ed:hover{
+  opacity: 0.5;
+}
+
 .typeWindows__421ed {
   transform: rotate(180deg);
 }
