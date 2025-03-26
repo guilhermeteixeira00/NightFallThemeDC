@@ -197,8 +197,14 @@
 }
 
 .childContainer__91a9d  {
+    border-radius: inherit;
     padding: 0px;
-    border-radius: 0px;
+}
+
+.visual-refresh .member__5d473 {
+    max-width: calc(var(--custom-member-list-width) - 16px);
+    padding: 4px;
+    margin: 0 0 5px 10px;
 }
 
 .visual-refresh .wrapper_ef3116 {
