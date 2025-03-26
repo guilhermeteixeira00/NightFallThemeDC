@@ -179,7 +179,7 @@
 
 /* Nova atualização Dc */
 .content_c48ade{
-    background-image: url('https://i.imgur.com/EdoxJeJ.png');
+    background: var(--background-image);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -192,18 +192,30 @@
 
 .visual-refresh .container__0f2e8 {
     background: var(--bg-overlay-4, var(--background-surface-high));
-    border: 1px solid snow;
     max-width: calc(var(--custom-member-list-width) - 16px);
-    border-radius: 5px;
+    border-radius: 0px;
 }
 
 .childContainer__91a9d  {
     padding: 0px;
-    border: 1px solid snow;
+    border-radius: 0px;
 }
 
 .visual-refresh .wrapper_ef3116 {
     background-color: transparent;
+    -webkit-backdrop-filter: blur(2px);
+    backdrop-filter: blur(2px);
+}
+
+.visual-refresh .sidebarListRounded_c48ade {
+    border-top-left-radius: var(--radius-md);
+    -webkit-backdrop-filter: blur(2px);
+    backdrop-filter: blur(2px);
+}
+
+.visual-refresh .container__2637a {
+    background: transparent;
+    margin-left: 0;
 }
 
 .activityPanel_c48ade {
@@ -228,6 +240,21 @@
     --custom-notice-text: var(--notice-text-critical);
     --custom-notice-button-hover: var(--notice-text-critical);
     animation: backgroundanim 2.5s linear infinite;
+}
+
+@keyframes backgroundanim {
+    to {
+        background-position: 200%;
+    }
+}
+
+.notice__6e2b9 {
+    font-weight: bolder;
+    color: snow;
+}
+
+.button__6e2b9 {
+    border-radius: 0px;
 }
 
 @keyframes backgroundanim {
