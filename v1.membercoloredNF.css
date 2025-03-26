@@ -12,25 +12,30 @@
 .member_c8ffbb:has(rect[mask="url(#svg-mask-status-online)"]),
 .member_c8ffbb:has(rect[mask="url(#svg-mask-status-online-mobile)"]) {
     border-left: 4px solid var(--online-color);
+    border-right: 4px solid var(--online-color);
 }
 
 .member_c8ffbb:has(rect[mask="url(#svg-mask-status-dnd)"]),
 .member_c8ffbb:has(rect[mask="url(#svg-mask-status-dnd-mobile)"]) {
     border-left: 4px solid var(--dnd-color);
+    border-right: 4px solid var(--dnd-color);
 }
 
 .member_c8ffbb:has(rect[mask="url(#svg-mask-status-idle)"]),
 .member_c8ffbb:has(rect[mask="url(#svg-mask-status-idle-mobile)"]) {
     border-left: 4px solid var(--afk-color);
+    border-right: 4px solid var(--afk-color);
 }
 
 .member_c8ffbb:has(rect[mask="url(#svg-mask-status-streaming)"]) {
     border-left: 4px solid var(--streaming-color);
+    border-right: 4px solid var(--streaming-color);
 }
 
 .member_c8ffbb:has(rect[mask="url(#svg-mask-status-offline)"]),
 .member_c8ffbb:has(rect[mask="url(#svg-mask-status-invisible)"]) {
     border-left: 4px solid #80848e;
+    border-right: 4px solid #80848e;
 }
 
 .selected__91a9d {
