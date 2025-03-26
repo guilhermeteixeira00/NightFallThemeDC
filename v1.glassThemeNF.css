@@ -177,6 +177,76 @@
     --ver: "NightFall Gaming ("var(--current-ver)") "var(--file-ver);
 }
 
+/* Nova atualização Dc */
+.content_c48ade{
+    background-image: url('https://i.imgur.com/EdoxJeJ.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.borderRadius__6341f {
+    border-radius: 6px;
+    border: 2px solid red;
+}
+
+.visual-refresh .container__0f2e8 {
+    background: var(--bg-overlay-4, var(--background-surface-high));
+    border: 1px solid snow;
+    max-width: calc(var(--custom-member-list-width) - 16px);
+    border-radius: 5px;
+}
+
+.childContainer__91a9d  {
+    padding: 0px;
+    border: 1px solid snow;
+}
+
+.visual-refresh .wrapper_ef3116 {
+    background-color: transparent;
+}
+
+.activityPanel_c48ade {
+    border-radius: 0px;
+}
+
+.theme-dark .container__37e49, .container__37e49 {
+    border-radius: 0px;
+}
+
+.justifyStart_abf706 {
+    justify-content: center;
+}
+
+:where(.visual-refresh) .footer__49fc1 {
+    padding-top: 10px;
+}
+
+.visual-refresh .colorDanger__6e2b9 {
+    background-size: 200%;
+    --custom-notice-background: linear-gradient(to left, black, red, black, red);;
+    --custom-notice-text: var(--notice-text-critical);
+    --custom-notice-button-hover: var(--notice-text-critical);
+    animation: backgroundanim 2.5s linear infinite;
+}
+
+@keyframes backgroundanim {
+    to {
+        background-position: 200%;
+    }
+}
+
+.notice__6e2b9 {
+    font-weight: bolder;
+    color: snow;
+}
+
+.button__6e2b9 {
+    border-radius: 0px;
+}
+
+/* ============================================================================================= */
+
 .info__2debe::before {
     /* settings theme version */
     content: var(--ver);
