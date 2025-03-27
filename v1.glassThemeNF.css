@@ -513,7 +513,7 @@ path{
 .container_c8ffbb,
 .chatContent_f75fb0,
 .wrapper_ef3116 {
-    background-color: var(--background-primary);
+    background-color: transparent;
 }
 
 .theme-dark .sidebarContainer_a3a4ce {
