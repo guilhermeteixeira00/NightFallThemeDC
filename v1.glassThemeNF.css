@@ -248,11 +248,28 @@
     animation: backgroundanim 2.5s linear infinite;
 }
 
+.visual-refresh .colorDefault__6e2b9, .visual-refresh .colorSuccess__6e2b9 {
+    background-size: 200%;
+    --custom-notice-background: linear-gradient(to left, black, green, black, green);;
+    --custom-notice-text: var(--notice-text-critical);
+    --custom-notice-button-hover: var(--notice-text-critical);
+    animation: backgroundanim 2.5s linear infinite;
+}
 @keyframes backgroundanim {
     to {
         background-position: 200%;
     }
 }
+
+.visual-refresh .notice__6e2b9 .button__6e2b9 {
+    border-color: snow !important;
+}
+.notice__6e2b9 .button__6e2b9 {
+    color: snow !important;
+    font-weight: bolder;
+    border-color: var(--custom-notice-text) !important;
+}
+
 
 .notice__6e2b9 {
     font-weight: bolder;
