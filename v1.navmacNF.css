@@ -4,41 +4,52 @@
   --green-dot: var(--status-success); 
 }
 
-.winButtonClose__421ed {
-  background-color: var(--red-dot);
+.winButtonClose_c38106 {
+  background-color: red !important;
   margin-right: 5px;
 }
-.winButtonMinMax__421ed:nth-child(2n) {
-  background-color: var(--yellow-dot);
+.winButton_c38106.winButtonMinMax_c38106:nth-child(2n) {
+  background-color: yellow !important;
 }
-.winButtonMinMax__421ed:nth-child(3n) {
-  order:3;
-  background-color: var(--green-dot);
+.winButton_c38106.winButtonMinMax_c38106:nth-child(1n):not(:nth-child(2n)) {
+  background-color: green !important;
 }
 
-.winButtonClose__421ed:hover{
+.winButtonClose_c38106:hover{
   opacity: 0.5;
 }
-.winButtonMinMax__421ed:hover{
+.winButton_c38106.winButtonMinMax_c38106:hover{
   opacity: 0.5;
 }
 
-.typeWindows__421ed {
-  transform: rotate(180deg);
+.winButtons_c38106 {
+    transform: rotate(180deg);
 }
 
-.withFrame__421ed {
-  margin-bottom: 4px;
-  margin-top: 0px;
-}
-
-.winButton__421ed {
+.winButton_c38106 {
   border-radius: 100%;
-  width: 13px;
-  height: 13px;
+  width: 16px;
+  height: 16px;
   top: 0px;
   margin-left: 3px;
 }
-.winButton__421ed svg {
-  display: none;
+
+.winButton_c38106 svg {
+  color: transparent;
+}
+
+.winButton_c38106 svg:hover {
+  color: black;
+}
+
+.trailing_c38106{
+    position: fixed;
+    left: 0;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.trailing_c38106, .winButtons_c38106 {
+    justify-content: flex-end;
+    padding: 10px;
 }
