@@ -505,11 +505,6 @@ path{
     background: var(--button-background-static);
 }
 
-.modeUnreadImportant__2ea32 .name__2ea32,
-.modeUnreadImportant__2ea32:hover .name__2ea32 {
-    color: white;
-}
-
 .layers__160d8 {
     margin: calc(var(--app-margin) / 2) var(--app-margin) var(--app-margin) var(--app-margin);
     border-radius: var(--app-radius);
