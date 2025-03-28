@@ -788,12 +788,6 @@ path{
     color: var(--white);
 }
 
-.modeUnreadImportant__2ea32 .name__2ea32,
-.modeUnreadImportant__2ea32:hover .name__2ea32 {
-    color: var(--selected-channel-color);
-    font-weight: var(--font-weight-semibold-1x-light-theme, 550);
-}
-
 .container__13cf1 {
     /*cat vars*/
     box-sizing: border-box;
