@@ -313,12 +313,6 @@ path{
     color: snow !important;
 }
 
-.visual-refresh.theme-midnight .content_f75fb0, .visual-refresh.theme-midnight .subtitleContainer_f75fb0 {
-    border-left: 1px solid snow;
-    border-right: 1px solid snow;
-    border-bottom: 1px solid snow;
-}
-
 .visual-refresh .container_c8ffbb {
     background: transparent;
 }
