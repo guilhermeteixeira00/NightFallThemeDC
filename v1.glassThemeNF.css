@@ -416,6 +416,27 @@ path{
     color: green;
 }
 
+.container__8061a {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    box-sizing: border-box;
+    width: -moz-fit-content;
+    width: fit-content;
+    height: 25px;
+    gap: 2px;
+    margin: 1px 0;
+    padding: 0 2px;
+    background: var(--bg-mod-faint);
+    border-radius: var(--radius-xs);
+    border: 1px solid var(--border-faint);
+}
+
+.anchor_edefb8.anchorUnderlineOnHover_edefb8 img{
+    position: relative;
+    top: -15px;
+}
+
 /* ============================================================================================= */
 
 .info__2debe::before {
