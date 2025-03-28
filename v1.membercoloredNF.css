@@ -2,13 +2,6 @@
     background: var(--background-primary);
 }
 
-.content__07f91{
-    border-left: 3px solid #80848e;
-    border-top: 1px solid #80848e;
-    border-bottom: 1px solid #80848e;
-    border-right: 3px solid #80848e;
-}
-
 .member_c8ffbb:has(rect[mask="url(#svg-mask-status-online)"]),
 .member_c8ffbb:has(rect[mask="url(#svg-mask-status-online-mobile)"]) {
     border-left: 4px solid var(--online-color);
