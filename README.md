@@ -5,7 +5,7 @@
 <p align="center">note and you need to have vencord on your discord link: https://vencord.dev 
 
 <div align="center">
-  <a href="https://download937.mediafire.com/otpvcc8fuhpgeD1cBCBpZ5OsB_BttMiMXSNXETNiycByrEQ-5W7GhOUNielk9sjrzagNGuL9OW_IxfBk632m3xNj1B7GQ_zTb7kJVc0es831gB-NHNTAq-es08xD8SHROpEdmQ5oMJQAMZgmJ5ZfLtTxwqJ1PCw_7P2lvyyb8-XzfKw/3dfe5w9ypil1dkj/nightfall.theme.css"><img src="https://readme-typing-svg.herokuapp.com?font=Bungee+Tint&size=28&duration=1&pause=1000&color=F70000&vCenter=true&width=397&height=30&lines=click+here+to+download" alt="Typing SVG" /></a></a>
+  <a href="https://download937.mediafire.com/otpvcc8fuhpgeD1cBCBpZ5OsB_BttMiMXSNXETNiycByrEQ-5W7GhOUNielk9sjrzagNGuL9OW_IxfBk632m3xNj1B7GQ_zTb7kJVc0es831gB-NHNTAq-es08xD8SHROpEdmQ5oMJQAMZgmJ5ZfLtTxwqJ1PCw_7P2lvyyb8-XzfKw/3dfe5w9ypil1dkj/nightfall.theme.css"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Tint&size=30&duration=1&pause=1000&center=true&vCenter=true&multiline=true&width=440&lines=Click+here+to+download" alt="Typing SVG" /></a>
   
   Theme Prints
 </div>
