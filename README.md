@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&duration=1&pause=1000&color=F70000&vCenter=true&width=357&height=30&lines=NightFall+Gaming+Theme" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bungee+Tint&size=30&duration=1&pause=1000&color=F70000&vCenter=true&width=439&height=30&lines=NightFall+Gaming+Theme" alt="Typing SVG" /></a>
 </div>
 
 <p align="center">note and you need to have vencord on your discord link: https://vencord.dev 
