@@ -428,4 +428,10 @@ path{
     border: 1px solid snow;
 }
 
+.theme-dark .experimentButton_e131a9.buttonColor_e131a9.buttonActive_e131a9, .theme-dark .experimentButton_e131a9 .buttonColor_e131a9.buttonActive_e131a9, .theme-dark.custom-theme-background .experimentButton_e131a9.buttonColor_e131a9.buttonActive_e131a9, .theme-dark.custom-theme-background .experimentButton_e131a9 .buttonColor_e131a9.buttonActive_e131a9 {
+    background-color: green;
+    color: var(--green-300);
+    border: 2px solid snow;
+}
+
 /* ========================================================================== */
