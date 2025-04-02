@@ -282,12 +282,24 @@ path{
     color: green;
 }
 
-.containerDefault_c69b6d .name__2ea32{
+.iconVisibility_c69b6d  .name__2ea32{
     color: snow;
 }
 
-.modeUnreadImportant__2ea32 .name__2ea32, .modeUnreadImportant__2ea32:hover .name__2ea32{
+.modeMuted__2ea32 .name__2ea32{
+    color: #4e4e4e;
+}
+
+.modeUnreadImportant__2ea32 .name__2ea32{
     color: green;
+}
+
+.modeUnreadImportant__2ea32:hover .name__2ea32{
+    color: green;
+}
+
+.header__13cf1 .overflow__82b15{
+    color: rgb(255, 0, 0);
 }
 
 .container__8061a {
@@ -372,6 +384,16 @@ path{
     background-size: cover;
     background-position: center;
     background-image: var(--custom-logo-hover) !important;
+}
+
+.container_fc561d {
+    position: absolute;
+    left: -40px;
+}
+
+.modeSelected__2ea32 .link__2ea32,
+.modeSelected__2ea32:hover .link__2ea32 {
+    background: green;
 }
 
 /* ========================================================================== */
