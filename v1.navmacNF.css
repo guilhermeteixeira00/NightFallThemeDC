@@ -1,9 +1,3 @@
-:root {
-  --red-dot: var(--status-danger);
-  --yellow-dot: var(--status-alert);
-  --green-dot: var(--status-success); 
-}
-
 .winButtonClose_c38106 {
   background-color: red !important;
   margin-right: 5px;
