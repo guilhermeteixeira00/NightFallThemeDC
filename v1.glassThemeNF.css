@@ -42,6 +42,7 @@
     --box-shadow: 0 0 10px 0px black;
 
     --cat-color-rgba: var(--cat-custom-color-rgba);
+    --highlight: rgb(var(--rgb-highlight));
 }
 
 /* Nova atualização Dc */
@@ -342,6 +343,31 @@ path{
 .members_c8ffbb {
     background: transparent;
     border-radius: 0px 0px 8px 8px;
+}
+
+/* discord logo color */
+.childWrapper__6e9f8 {
+    color: var(--highlight);
+}
+
+.tutorialContainer__1f388 .childWrapper__6e9f8 { 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-image: var(--custom-logo) !important;
+}
+.tutorialContainer__1f388 .childWrapper__6e9f8:hover {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-image: var(--custom-logo-hover) !important;
+}
+
+.tutorialContainer__1f388 .wrapper__6e9f8.selected__6e9f8 .childWrapper__6e9f8  {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-image: var(--custom-logo-hover) !important;
 }
 
 /* ========================================================================== */
