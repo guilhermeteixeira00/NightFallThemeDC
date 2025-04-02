@@ -434,4 +434,14 @@ path{
     border: 2px solid snow;
 }
 
+.visual-refresh .chatContent_f75fb0 {
+    background: transparent;
+    backdrop-filter: blur(2px);
+}
+
+.divider__908e2 {
+    border-top: thin solid rgb(0, 0, 0);
+    --divider-color: rgb(0, 0, 0);
+}
+
 /* ========================================================================== */
