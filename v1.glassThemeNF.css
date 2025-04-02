@@ -396,4 +396,36 @@ path{
     background: green;
 }
 
+.visual-refresh .circleIconButton__5bc7e:hover:not(.disabled__5bc7e){
+    background-color: red;
+}
+
+.visual-refresh .circleIconButton__5bc7e:hover:not(.disabled__5bc7e){
+    background-color: red;
+}
+
+.visual-refresh .container__37e49{
+    background-color: rgba(255, 0, 0, 0.527);
+    border-radius: 0 0 5px 5px;
+    border: 1px solid snow;
+}
+
+.panel__5dec7.activityPanel_c48ade{
+    background-color: rgba(255, 0, 0, 0.527);
+    border-radius: 5px 5px 0 0;
+    border: 1px solid snow;
+}
+
+.wrapper_e131a9{
+    border: 1px solid snow;
+}
+
+.visual-refresh .button_e131a9.buttonColor_e131a9, .visual-refresh .button_e131a9 .buttonColor_e131a9{
+    border: 2px solid snow;
+}
+
+.visual-refresh .container__0f2e8{
+    border: 1px solid snow;
+}
+
 /* ========================================================================== */
